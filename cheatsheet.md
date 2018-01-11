@@ -1,12 +1,13 @@
 # Node.js Cheatsheet
 
-## Content
-- [Documentation](#Documentation)
-- [Installation](#Installation)
-- [Debugging](#Debugging)
-- [Utilities](#Utilities)
-- [Modules](#Modules)
-- [Creating a New Web App with the Express Framework](#Creating a New Web App with the Express Framework)
+## Table of Contents
+
+- [Documentation](#documentation)
+- [Installation](#installation)
+- [Debugging](#debugging)
+- [Utilities](#utilities)
+- [Modules](#modules)
+- [Creating a New Web App with the Express Framework](#creatinganewwebappwiththeexpressframework)
 - [Snippets](#Snippets)
 - [GLOBAL OBJECTS](#GLOBAL OBJECTS)
 - [CONSOLE](#CONSOLE) 
@@ -23,6 +24,7 @@
 ---
 
 ## Documentation
+
 * [API Docs](http://nodejs.org/api/)
 * [Debugger](http://nodejs.org/api/debugger.html)
 * [Cluster](http://nodejs.org/docs/latest/api/cluster.html)
