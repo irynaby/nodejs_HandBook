@@ -1,7 +1,9 @@
 # Node.js Cheatsheet
+> Node.js — программная платформа, основанная на движке V8 (транслирующем JavaScript в машинный код)
+
+В основе Node.js лежит событийно-ориентированное и асинхронное (или реактивное) программирование с неблокирующим вводом/выводом.
 
 ## Table of Contents
-
 - [Documentation](#documentation)
 - [Installation](#installation)
 - [Debugging](#debugging)
